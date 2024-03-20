@@ -1,5 +1,6 @@
 # 💫 About Me:
-Desenvolvedor Back-End com conhecimentos em Python, Java, C, C# e mySQL.
+## Welcome to my profile! ##
+Hi! My name is Rodrigo Queiroz and i'm a back-end developer with knowledge in Python, Java, C, C# and mySQL database. I'm currently studying to increase my experience with some programming languages and frameworks!
 
 
 ## 🌐 Socials:
